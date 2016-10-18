@@ -1,4 +1,3 @@
-id: 58
 title: Hướng dẫn cơ bản về R
 author_field: Anh Hoang Duc
 time_needed: 4 giờ
@@ -15,11 +14,3 @@ description: "Trong loạt bài giảng này, bạn sẽ học được cách l�
   He provides training in R & data analytics in Hanoi, Vietnam. 
   His courses provide various aspects of R such as data analysis, data wrangling, data vizualization or predictive model. 
   Anh holds master degree in Quantitative Methods in Economics
-chapters:
-  chapter1.Rmd: 316
-  chapter2.Rmd: 317
-  chapter3.Rmd: 318
-  chapter4.Rmd: 319
-  chapter5.Rmd: 320
-  chapter6.Rmd: 321
-
